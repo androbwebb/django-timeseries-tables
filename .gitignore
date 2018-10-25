@@ -1,0 +1,4 @@
+*.pyc
+dist
+django_postgres_readonly.egg-info
+.idea/

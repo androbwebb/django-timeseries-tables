@@ -1,0 +1,5 @@
+# Dependencies for development of django-timeseries-tables
+
+tox
+sphinx
+twine
